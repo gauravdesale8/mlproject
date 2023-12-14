@@ -6,6 +6,8 @@ This repository comprises the code for data pipelines and model training in a ma
 
 ## System Architecture:
 
+![Alt text](image.png)
+
 The system architecture is structured as follows:
 
 - **Data Ingestion:** Data is ingested from a source (e.g., database, CSV file) and loaded into a data pipeline.
